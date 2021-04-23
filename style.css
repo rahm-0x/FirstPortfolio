@@ -8,18 +8,23 @@ body {
   margin-left: 80px;
 }
 
+img {
+  height: 600px;
+  width: 500px;
+}
+/* unordered list */
 ul {
   width: 70%;
   margin: auto;
 }
-
+/* ordered list */
 ol {
   width: 50%;
   margin: auto;
   padding-right: 30px;
   padding-bottom: 20px;
 }
-
+/* inital link */
 a:link {
   color: #7f8c8d;
 }
