@@ -17,4 +17,24 @@ ol {
   width: 50%;
   margin: auto;
   padding-right: 30px;
+  padding-bottom: 20px;
+}
+
+a:link {
+  color: #7f8c8d;
+}
+
+/* visited link */
+a:visited {
+  color: #222f3e;
+}
+
+/* mouse over link */
+a:hover {
+  color: #2e86de;
+}
+
+/* selected link */
+a:active {
+  color: #576574;
 }
