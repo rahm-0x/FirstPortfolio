@@ -8,16 +8,21 @@ body {
   margin-left: 80px;
 }
 
+p {
+  font-size: smaller;
+}
+
 img {
   height: 600px;
   width: 500px;
 }
-/* unordered list */
+
 ul {
   width: 70%;
   margin: auto;
+  font-size: smaller;
 }
-/* ordered list */
+/* orderd list */
 ol {
   width: 50%;
   margin: auto;
